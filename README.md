@@ -37,16 +37,16 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 <br/>
 
 <p align="center">
-    <a href="https://github.com/BrightonOtieno/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brighton's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrightonOtieno&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/abungubrighton /github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brighton's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abungubrighton &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## Github Stats
 
   <br/>
-  <p><a align="left"  href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrightonOtieno&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a align="right" href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightonOtieno&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <p><a align="left"  href="https://github.com/abungubrighton /github-readme-stats"><img alt="Brightons Github Stats" src="https://github-readme-stats.vercel.app/api?username=abungubrighton &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="right" href="https://github.com/abungubrighton /github-readme-stats"><img alt="Brightons Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abungubrighton &langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
    <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </p>
   
@@ -55,7 +55,7 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 <br/>
 <br/>
 
-<p align="center"><a href="https://github.com/BrightonOtieno/github-readme-activity-graph"><img alt="Brighton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrightonOtieno&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/abungubrighton /github-readme-activity-graph"><img alt="Brighton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abungubrighton &bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
 <br/>
 <br/>
