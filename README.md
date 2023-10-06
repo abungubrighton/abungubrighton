@@ -45,7 +45,7 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 ## Github Stats
 
   <br/>
-  <p><a align="left"  href="https://github.com/abungubrighton /github-readme-stats"><img alt="Brightons Github Stats" src="https://github-readme-stats.vercel.app/api?username=abungubrighton &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abungubrighton" alt="GitHub Streak" /></a>
     <a align="right" href="https://github.com/abungubrighton /github-readme-stats"><img alt="Brightons Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abungubrighton &langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
    <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </p>
