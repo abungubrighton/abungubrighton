@@ -6,7 +6,7 @@
 ****
 ## 🙋‍♂️ About Me
 
-I'm Brighton Otieno a software developer based in Kenya.Currently I am the Lead skills trainer at <a href="[https://www.rcdafrica.org/](https://ibuqa.io/)">IbuQa Capital  </a>.
+I'm Brighton Otieno a software developer based in Kenya.Currently working at <a href="https://ibuqa.io/">IbuQa Capital  </a>.
 
 I spend most of my time building Web Applications, doing Data Analysis, Data Visualizations & Building Machine Learning Models.
 <p align="center">
@@ -37,8 +37,8 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 <br/>
 
 <p align="center">
-    <a href="https://github.com/abungubrighton /github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brighton's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abungubrighton &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a style="width:100%" href="https://github.com/abungubrighton /github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brighton's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abungubrighton &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" style="width:100%" />
     </a>
 </p>
 
