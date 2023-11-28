@@ -30,6 +30,7 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/> 
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
     
 </p>
 
