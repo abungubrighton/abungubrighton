@@ -4,7 +4,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer & a Data Science Enthusiast.</h3>
 
 ****
-## 🙋‍♂️ About Me [Link to my portfolio](https://portfolio-one-sooty-36.vercel.app/)
+## 🙋‍♂️ About Me
+
+[Link to my portfolio](https://portfolio-one-sooty-36.vercel.app/)
 
 I'm Brighton Otieno a software developer based in Kenya.Currently working as a Software Engineer at <a href="https://ibuqa.io/">IbuQa Capital </a>.
 
