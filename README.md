@@ -8,7 +8,7 @@
 
 [Link to my portfolio](https://portfolio-one-sooty-36.vercel.app/)
 
-I'm Brighton Otieno a software developer based in Kenya.Currently working as a Software Engineer at <a href="https://ibuqa.io/">IbuQa Capital </a>.
+I'm Brighton Otieno a software developer based in Nairobi Kenya.Currently working as a Software Engineer at <a href="https://ibuqa.io/">IbuQa Capital </a>.
 
 I spend most of my time building Web Applications, doing Data Analysis, Data Visualizations & Building Machine Learning Models.
 <p align="center">
