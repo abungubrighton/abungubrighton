@@ -6,7 +6,7 @@
 ****
 ## 🙋‍♂️ About Me
 
-[Link to my portfolio](https://portfolio-one-sooty-36.vercel.app/)
+[Link to my portfolio](https://abungubrighton.vercel.app/)
 
 I'm Brighton Otieno a software developer based in Nairobi Kenya.Currently working as a Software Engineer at <a href="https://ibuqa.io/">IbuQa Capital </a>.
 
